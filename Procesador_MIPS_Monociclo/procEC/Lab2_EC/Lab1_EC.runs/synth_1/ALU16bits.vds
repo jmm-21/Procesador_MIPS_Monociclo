@@ -1,0 +1,28 @@
+#-----------------------------------------------------------
+# Vivado v2015.1 (64-bit)
+# SW Build 1215546 on Mon Apr 27 19:22:08 MDT 2015
+# IP Build 1209967 on Tue Apr 21 11:39:20 MDT 2015
+# Start of session at: Tue Feb 27 11:35:21 2024
+# Process ID: 3996
+# Log file: C:/procEC/Lab1_EC/Lab1_EC.runs/synth_1/ALU16bits.vds
+# Journal file: C:/procEC/Lab1_EC/Lab1_EC.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source ALU16bits.tcl -notrace
+Command: synth_design -top ALU16bits -part xc7a100tcsg324-1
+Starting synth_design
+Attempting to get a license for feature 'Synthesis' and/or device 'xc7a100t'
+INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7a100t'
+---------------------------------------------------------------------------------
+Starting Synthesize : Time (s): cpu = 00:00:03 ; elapsed = 00:00:06 . Memory (MB): peak = 261.855 ; gain = 85.707
+---------------------------------------------------------------------------------
+ERROR: [Synth 8-1031] down is not declared [C:/procEC/Lab1_EC/Lab1_EC.srcs/sources_1/new/ALU16bits.vhd:36]
+INFO: [Synth 8-2810] unit behavioral ignored due to previous errors [C:/procEC/Lab1_EC/Lab1_EC.srcs/sources_1/new/ALU16bits.vhd:35]
+---------------------------------------------------------------------------------
+Finished Synthesize : Time (s): cpu = 00:00:04 ; elapsed = 00:00:07 . Memory (MB): peak = 296.070 ; gain = 119.922
+---------------------------------------------------------------------------------
+synthesize failed
+INFO: [Common 17-83] Releasing license: Synthesis
+3 Infos, 0 Warnings, 0 Critical Warnings and 2 Errors encountered.
+synth_design failed
+ERROR: [Common 17-69] Command failed: Vivado Synthesis failed
+INFO: [Common 17-206] Exiting Vivado at Tue Feb 27 11:35:29 2024...

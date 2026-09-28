@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/procEC/Lab2_EC/Lab1_EC.srcs/sources_1/imports/Sesion2/registro_PC.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity registro_PC
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/procEC/Lab2_EC/Lab1_EC.srcs/sim_1/imports/Sesion2/TB_registro_PC.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity TB_registro_PC
