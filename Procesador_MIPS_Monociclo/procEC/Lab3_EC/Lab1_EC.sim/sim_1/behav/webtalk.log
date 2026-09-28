@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Webtalk v2015.1 (64-bit)
+# SW Build 1215546 on Mon Apr 27 19:22:08 MDT 2015
+# IP Build 1209967 on Tue Apr 21 11:39:20 MDT 2015
+# Start of session at: Sun Apr 14 18:43:08 2024
+# Process ID: 3400
+# Log file: C:/procEC/Lab3_EC/Lab1_EC.sim/sim_1/behav/webtalk.log
+# Journal file: C:/procEC/Lab3_EC/Lab1_EC.sim/sim_1/behav\webtalk.jou
+#-----------------------------------------------------------
+source C:/procEC/Lab3_EC/Lab1_EC.sim/sim_1/behav/xsim.dir/TB_Mem_Ia_256x8_behav/webtalk/xsim_webtalk.tcl -notrace
+
+    while executing
+"webtalk_transmit -clientid 1965525989 -regid "212973893_0_0_460" -xml C:/procEC/Lab3_EC/Lab1_EC.sim/sim_1/behav/xsim.dir/TB_Mem_Ia_256x8_behav/webtalk..."
+    (file "C:/procEC/Lab3_EC/Lab1_EC.sim/sim_1/behav/xsim.dir/TB_Mem_Ia_256x8_behav/webtalk/xsim_webtalk.tcl" line 32)
+INFO: [Common 17-206] Exiting Webtalk at Sun Apr 14 18:43:09 2024...
