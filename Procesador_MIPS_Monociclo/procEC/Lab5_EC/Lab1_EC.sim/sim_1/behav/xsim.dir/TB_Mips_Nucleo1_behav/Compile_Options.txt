@@ -1,0 +1,1 @@
+-wto "c63be9982a7a4831ac374719b729e0b5" --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "TB_Mips_Nucleo1_behav" "xil_defaultlib.TB_Mips_Nucleo1" -log "elaborate.log" 
