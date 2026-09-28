@@ -1,0 +1,10 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/procEC/Lab1_EC/Lab1_EC.srcs/sources_1/new/mux4a1_4bits.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity mux4a1_4bits
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/procEC/Lab1_EC/Lab1_EC.srcs/sources_1/imports/Sesion1/hex2led.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity hex2led
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/procEC/Lab1_EC/Lab1_EC.srcs/sources_1/imports/Sesion1/dec2a4.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity dec2a4
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/procEC/Lab1_EC/Lab1_EC.srcs/sources_1/imports/Sesion1/Sel_Digit_CodLEDS.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Seldigit_CodLEDS
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/procEC/Lab1_EC/Lab1_EC.srcs/sim_1/imports/Sesion1/TB_Seldigit_codleds.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity TB_Seldigit_codleds

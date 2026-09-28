@@ -1,0 +1,21 @@
+Vivado Simulator 2015.1
+Copyright 1986-1999, 2001-2015 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2015.1/bin/unwrapped/win64.o/xelab.exe -wto c63be9982a7a4831ac374719b729e0b5 --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot TB_Seldigit_codleds_behav xil_defaultlib.TB_Seldigit_codleds -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling package ieee.numeric_std
+Compiling architecture behavioral of entity xil_defaultlib.dec2a4 [dec2a4_default]
+Compiling architecture behavioral of entity xil_defaultlib.mux4a1_4bits [mux4a1_4bits_default]
+Compiling architecture behavioral of entity xil_defaultlib.hex2led [hex2led_default]
+Compiling architecture behavioral of entity xil_defaultlib.Seldigit_CodLEDS [seldigit_codleds_default]
+Compiling architecture behavior of entity xil_defaultlib.tb_seldigit_codleds
+Waiting for 2 sub-compilation(s) to finish...
+Built simulation snapshot TB_Seldigit_codleds_behav
