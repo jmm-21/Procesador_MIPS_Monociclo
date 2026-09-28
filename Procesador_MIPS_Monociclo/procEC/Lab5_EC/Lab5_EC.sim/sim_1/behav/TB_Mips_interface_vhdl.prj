@@ -1,0 +1,23 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../../Lab4_EC/Lab1_EC.srcs/sources_1/new/mux4a1_4bits.vhd"
+vhdl xil_defaultlib  "../../../../Lab4_EC/Lab1_EC.srcs/sources_1/imports/Sesion1/hex2led.vhd"
+vhdl xil_defaultlib  "../../../../Lab4_EC/Lab1_EC.srcs/sources_1/imports/Sesion1/dec2a4.vhd"
+vhdl xil_defaultlib  "../../../../Lab4_EC/Lab1_EC.srcs/sources_1/imports/Sesion4/unicontrol_rel1.vhd"
+vhdl xil_defaultlib  "../../../../Lab4_EC/Lab1_EC.srcs/sources_1/imports/Sesion2/registro_PC.vhd"
+vhdl xil_defaultlib  "../../../../Lab4_EC/Lab1_EC.srcs/sources_1/imports/Sesion3/ram_datos.vhd"
+vhdl xil_defaultlib  "../../../../Lab4_EC/Lab1_EC.srcs/sources_1/imports/Sesion4/mux3a1_5bits.vhd"
+vhdl xil_defaultlib  "../../../../Lab4_EC/Lab1_EC.srcs/sources_1/imports/Sesion4/mux3a1_16bits.vhd"
+vhdl xil_defaultlib  "../../../../Lab4_EC/Lab1_EC.srcs/sources_1/imports/Sesion4/mux2a1_16bits.vhd"
+vhdl xil_defaultlib  "../../../../Lab4_EC/Lab1_EC.srcs/sources_1/imports/Sesion3/Mem_Ia_256x8.vhd"
+vhdl xil_defaultlib  "../../../../Lab4_EC/Lab1_EC.srcs/sources_1/imports/Sesion4/BReg_3port_lec.vhd"
+vhdl xil_defaultlib  "../../../../Lab4_EC/Lab1_EC.srcs/sources_1/imports/Sesion4/ALUcontrol_0.vhd"
+vhdl xil_defaultlib  "../../../../Lab4_EC/Lab1_EC.srcs/sources_1/new/ALU16bits.vhd"
+vhdl xil_defaultlib  "../../../Lab5_EC.srcs/sources_1/imports/Sesion5/cont_pausa_gen.vhd"
+vhdl xil_defaultlib  "../../../Lab5_EC.srcs/sources_1/imports/Sesion5/cont_div_frec_refresh.vhd"
+vhdl xil_defaultlib  "../../../../Lab4_EC/Lab1_EC.srcs/sources_1/imports/Sesion1/Sel_Digit_CodLEDS.vhd"
+vhdl xil_defaultlib  "../../../../Lab4_EC/Lab1_EC.srcs/sources_1/imports/Sesion4/Mips_Nucleo1.vhd"
+vhdl xil_defaultlib  "../../../Lab5_EC.srcs/sources_1/imports/Sesion5/MIPS_interface.vhd"
+vhdl xil_defaultlib  "../../../Lab5_EC.srcs/sim_1/imports/Sesion5/TB_Mips_interface.vhd"
+
+# Do not sort compile order
+nosort
