@@ -1,0 +1,28 @@
+Vivado Simulator 2015.1
+Copyright 1986-1999, 2001-2015 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2015.1/bin/unwrapped/win64.o/xelab.exe -wto c63be9982a7a4831ac374719b729e0b5 --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot TB_Mips_Nucleo1_behav xil_defaultlib.TB_Mips_Nucleo1 -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_signed
+Compiling package ieee.std_logic_unsigned
+Compiling architecture mux_arch of entity xil_defaultlib.mux2a1_16bits [mux2a1_16bits_default]
+Compiling architecture core of entity xil_defaultlib.mux3a1_5bits [mux3a1_5bits_default]
+Compiling architecture definitiva of entity xil_defaultlib.registro_PC [registro_pc_default]
+Compiling architecture compor of entity xil_defaultlib.Mem_Ia_256x8 [mem_ia_256x8_default]
+Compiling architecture behavioral of entity xil_defaultlib.unicontrol_rel1 [unicontrol_rel1_default]
+Compiling architecture core of entity xil_defaultlib.mux3a1_16bits [mux3a1_16bits_default]
+Compiling architecture ram_arch of entity xil_defaultlib.BReg_3port [breg_3port_default]
+Compiling architecture behavioral of entity xil_defaultlib.ALU16bits [alu16bits_default]
+Compiling architecture behavioral of entity xil_defaultlib.ALUcontrol_0 [alucontrol_0_default]
+Compiling architecture ram_arch of entity xil_defaultlib.ram_datos [ram_datos_default]
+Compiling architecture estructural of entity xil_defaultlib.MIPS_nucleo1 [mips_nucleo1_default]
+Compiling architecture behavioral of entity xil_defaultlib.tb_mips_nucleo1
+Waiting for 3 sub-compilation(s) to finish...
+Built simulation snapshot TB_Mips_Nucleo1_behav

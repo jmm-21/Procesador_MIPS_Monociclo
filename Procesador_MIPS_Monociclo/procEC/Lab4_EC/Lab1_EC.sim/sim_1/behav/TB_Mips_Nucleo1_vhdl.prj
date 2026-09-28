@@ -1,0 +1,16 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../Lab1_EC.srcs/sources_1/imports/Sesion4/unicontrol_rel1.vhd"
+vhdl xil_defaultlib  "../../../Lab1_EC.srcs/sources_1/imports/Sesion2/registro_PC.vhd"
+vhdl xil_defaultlib  "../../../Lab1_EC.srcs/sources_1/imports/Sesion3/ram_datos.vhd"
+vhdl xil_defaultlib  "../../../Lab1_EC.srcs/sources_1/imports/Sesion4/mux3a1_5bits.vhd"
+vhdl xil_defaultlib  "../../../Lab1_EC.srcs/sources_1/imports/Sesion4/mux3a1_16bits.vhd"
+vhdl xil_defaultlib  "../../../Lab1_EC.srcs/sources_1/imports/Sesion4/mux2a1_16bits.vhd"
+vhdl xil_defaultlib  "../../../Lab1_EC.srcs/sources_1/imports/Sesion3/Mem_Ia_256x8.vhd"
+vhdl xil_defaultlib  "../../../Lab1_EC.srcs/sources_1/imports/Sesion4/BReg_3port_lec.vhd"
+vhdl xil_defaultlib  "../../../Lab1_EC.srcs/sources_1/imports/Sesion4/ALUcontrol_0.vhd"
+vhdl xil_defaultlib  "../../../Lab1_EC.srcs/sources_1/new/ALU16bits.vhd"
+vhdl xil_defaultlib  "../../../Lab1_EC.srcs/sources_1/imports/Sesion4/Mips_Nucleo1.vhd"
+vhdl xil_defaultlib  "../../../Lab1_EC.srcs/sim_1/imports/Sesion4/TB_Mips_Nucleo1.vhd"
+
+# Do not sort compile order
+nosort

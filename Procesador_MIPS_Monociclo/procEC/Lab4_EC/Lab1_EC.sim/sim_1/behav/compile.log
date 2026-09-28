@@ -1,0 +1,24 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/procEC/Lab4_EC/Lab1_EC.srcs/sources_1/imports/Sesion4/unicontrol_rel1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity unicontrol_rel1
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/procEC/Lab4_EC/Lab1_EC.srcs/sources_1/imports/Sesion2/registro_PC.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity registro_PC
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/procEC/Lab4_EC/Lab1_EC.srcs/sources_1/imports/Sesion3/ram_datos.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ram_datos
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/procEC/Lab4_EC/Lab1_EC.srcs/sources_1/imports/Sesion4/mux3a1_5bits.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity mux3a1_5bits
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/procEC/Lab4_EC/Lab1_EC.srcs/sources_1/imports/Sesion4/mux3a1_16bits.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity mux3a1_16bits
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/procEC/Lab4_EC/Lab1_EC.srcs/sources_1/imports/Sesion4/mux2a1_16bits.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity mux2a1_16bits
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/procEC/Lab4_EC/Lab1_EC.srcs/sources_1/imports/Sesion3/Mem_Ia_256x8.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Mem_Ia_256x8
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/procEC/Lab4_EC/Lab1_EC.srcs/sources_1/imports/Sesion4/BReg_3port_lec.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity BReg_3port
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/procEC/Lab4_EC/Lab1_EC.srcs/sources_1/imports/Sesion4/ALUcontrol_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ALUcontrol_0
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/procEC/Lab4_EC/Lab1_EC.srcs/sources_1/new/ALU16bits.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ALU16bits
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/procEC/Lab4_EC/Lab1_EC.srcs/sources_1/imports/Sesion4/Mips_Nucleo1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity MIPS_nucleo1
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/procEC/Lab4_EC/Lab1_EC.srcs/sim_1/imports/Sesion4/TB_Mips_Nucleo1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity TB_Mips_Nucleo1
